@@ -12,7 +12,7 @@ function reportAd() {
       <div class="mt-8 w-full max-w-xl uppercase ml-16 ">
           <div class="mb-4">
             <label
-              class="block  text-GREEN-_100 text-sm font-bold mb-2"
+              class="block text-GREEN-_100 text-sm font-bold mb-2"
               for="username"
             >
               Name
