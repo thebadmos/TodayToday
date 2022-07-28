@@ -64,8 +64,8 @@ function trendingAds() {
             Check out a couple of our Top Ads
             </Paragraph>
               <div></div>
-              <div className="text-green-700 text-base">See More
-              <button class="rounded-full w-10 h-10 bg-green-700 text-blue-100 ml-2">
+              <div className="text-GREEN-_100 text-base">See More
+              <button class="rounded-full w-10 h-10 bg-BACKGROUND_GREEN text-blue-100 ml-2">
               <FontAwesomeIcon icon={faArrowRight}/></button>
               </div>
             </div>

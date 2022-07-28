@@ -19,7 +19,7 @@ const DivContainer = styled.div`
 ${tw`container m-auto p-8 flex flex-wrap`}
 `
 const FooterContainer = styled.div`
-${tw`bg-green-800 w-full h-60 rounded-md p-6`}
+${tw`bg-BACKGROUND_GREEN w-full h-60 rounded-md p-6`}
 `;
 const FText = styled.h3`
 ${tw`text-3xl font-sans font-medium p-8 text-white`}
@@ -149,13 +149,13 @@ function footer() {
       <div class="px-4 mt-4 sm:w-1/3 xl:w-1/6 sm:mx-auto xl:mt-0 xl:ml-auto">
         <h5 class="text-xl font-bold mb-6 sm:text-center xl:text-left">Stay connected</h5>
         <div class="flex sm:justify-center xl:justify-start">
-          <a href="" class="w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 text-green-800 hover:text-white hover:bg-blue-600 hover:border-blue-600">
+          <a href="" class="w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 text-GREEN-_100 hover:text-white hover:bg-blue-600 hover:border-blue-600">
           <FontAwesomeIcon icon={faFacebook} size="lg" />
           </a>
-          <a href="" class="w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-green-800 hover:text-white hover:bg-blue-400 hover:border-blue-400">
+          <a href="" class="w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-GREEN-_100 hover:text-white hover:bg-blue-400 hover:border-blue-400">
           <FontAwesomeIcon icon={faInstagram} size="lg" />
           </a>
-          <a href="" class="w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-green-800 hover:text-white hover:bg-red-600 hover:border-red-600">
+          <a href="" class="w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-GREEN-_100 hover:text-white hover:bg-red-600 hover:border-red-600">
           <FontAwesomeIcon icon={faTwitter} size="lg" />
           </a>
         </div>

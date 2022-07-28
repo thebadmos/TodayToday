@@ -52,9 +52,9 @@ function hotDeals() {
           <div className="flex justify-between">
             <Paragraph>Hot Deals at Crazy Prices, Check them out</Paragraph>
             <div></div>
-            <div className="text-green-700 text-base">
+            <div className="text-GREEN-_100 text-base">
               See More
-              <button class="rounded-full w-10 h-10 bg-green-700 text-blue-100 ml-2">
+              <button class="rounded-full w-10 h-10 bg-BACKGROUND_GREEN text-blue-100 ml-2">
                 <FontAwesomeIcon icon={faArrowRight} />
               </button>
               {/* <div class="rounded-full w-16 bg-green-500">hey</div> */}
