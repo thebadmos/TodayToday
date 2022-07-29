@@ -28,7 +28,7 @@ function Login() {
                 Welcome back to your No 1 Classified Online Market
               </p>
               <input type="email" placeholder="Email Address" />
-              {/* <input type="password" placeholder="Password" class="mt-2" /> */}
+              <input type="password" placeholder="Password" class="mt-2" />
               <span className="text-GREEN-_100 font-semibold text-base"
                onClick={() => navigate("/forgot-password")}>Forget password?</span>
               <Button
