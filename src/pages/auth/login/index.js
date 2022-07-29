@@ -29,7 +29,7 @@ function Login() {
               </p>
               <input type="email" placeholder="Email Address" />
               <input type="password" placeholder="Password" class="mt-2" />
-              <span className="text-GREEN-_100 font-semibold"
+              <span className="text-GREEN-_100 font-semibold text-base"
                onClick={() => navigate("/forgot-password")}>Forget password?</span>
               <Button
                 className="forgotPasswordBtn"
